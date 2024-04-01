@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  jobs: one
+  skills: one
+
+two:
+  id: 1
+  jobs: two
+  skills: two
